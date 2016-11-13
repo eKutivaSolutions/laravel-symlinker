@@ -1,0 +1,25 @@
+{
+  "name": "ekutivasolutions/laravel-symlinker",
+  "description": "Create a symbolic link from 'public/storage' to 'storage/app/public' for Laravel 5.2 and under.",
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "5.1.*|5.2.*",
+    "illuminate/console": "5.1.*|5.2.*",
+    "illuminate/filesystem": "5.1.*|5.2.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "eKutivaSolutions\\SymLinker\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MaizerGomes",
+      "email": "maizer.gomes@gmail.com"
+    }
+  ]
+}
