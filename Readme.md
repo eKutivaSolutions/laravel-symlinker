@@ -22,6 +22,12 @@ Next, you must install the service provider:
     eKutivaSolutions\SymLinker\Providers\SymLinkServiceProvider::class,
 ];
 ```
+
+## Usage
+```bash
+php artisan storage:symlink
+```
+
 ## Security
 
 If you discover any security related issues, please email [info@sekutivasolutions.com](mailto:info@sekutivasolutions.com) instead of using the issue tracker.
