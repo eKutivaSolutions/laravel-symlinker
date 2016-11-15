@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "eKutivaSolutions\\SymLinker\\": "src/"
+      "eKutivaSolutions\\SymLinker\\": "src/Symlinker"
     }
   },
   "license": "MIT",
